@@ -14,3 +14,9 @@ C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API 
 C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.CopyComplete
 C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.dll
 C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.pdb
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Data.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Models.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Models.dll.config
