@@ -1,0 +1,16 @@
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Service.dll.config
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Service.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\ElevenNote.Service.pdb
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\EntityFramework.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\EntityFramework.xml
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.csprojAssemblyReference.cache
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.csproj.CopyComplete
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.dll
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.Service\obj\Debug\ElevenNote.Service.pdb

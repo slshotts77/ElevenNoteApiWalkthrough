@@ -1,0 +1,2 @@
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csprojAssemblyReference.cache
+C:\Users\Steve\Documents\Eleven Fifty Academy\C#\Code\Blue Badge\Eleven Not API Walkthrough\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CoreCompileInputs.cache
